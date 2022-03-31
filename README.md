@@ -6,7 +6,7 @@
 
 ## Como Funciona:
 
-### O usuário digita um CEP válido no campo e recebe como retorno uma séria de valores que correspondem à esse CEP.
+### O usuário digita um CEP válido no campo e recebe como retorno uma série de valores que correspondem à esse CEP.
 
 ## Tecnologias Usadas:
 
