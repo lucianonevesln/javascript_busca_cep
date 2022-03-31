@@ -21,8 +21,8 @@
 
 ### Passo 1:
 
-![alt text](https://github.com/lucianonevesln/javascript_busca_cep.git/blob/master/img0.png)
+![alt text](https://github.com/lucianonevesln/javascript_busca_cep/blob/master/img0.png)
 
 ### Passo 2:
 
-![alt text](https://github.com/lucianonevesln/javascript_busca_cep.git/blob/master/img0.png)
+![alt text](https://github.com/lucianonevesln/javascript_busca_cep/blob/master/img1.png)
