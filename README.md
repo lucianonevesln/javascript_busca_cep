@@ -19,10 +19,10 @@
 
 ## Imagens da Aplicação
 
-### Passo 1:
+### Passo 1: digite o número de cep no campo indicado na imagem
 
 ![alt text](https://github.com/lucianonevesln/javascript_busca_cep/blob/master/img0.png)
 
-### Passo 2:
+### Passo 2: observe o retorno dos valores associados ao CEP
 
 ![alt text](https://github.com/lucianonevesln/javascript_busca_cep/blob/master/img1.png)
